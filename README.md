@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JAaronGonzalez/JAaronGonzalez** 
 
 - 🔭 I'm currently working on fixing this description.
 - 🌱 I am learning English
@@ -11,4 +9,4 @@
 - 📫 How to contact me:Gmail
 - 😄 Pronouns: Gokuvegador.
 - ⚡ Fun fact: There are mushrooms that eat radiation.
--->
+
